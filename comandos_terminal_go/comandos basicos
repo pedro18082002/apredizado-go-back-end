@@ -1,0 +1,5 @@
+go build 
+go get "repositorio"
+go mod init modulo
+go run primeiro.go    
+go install
